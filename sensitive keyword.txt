@@ -1,0 +1,20 @@
+kasikorn
+kasikornbank
+kbtg
+kplus
+password
+credential
+encryption
+.git
+server
+username
+UAT
+SIT
+PRD
+prod
+API-key
+test
+test1234
+
+
+test test
